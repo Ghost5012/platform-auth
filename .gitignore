@@ -1,0 +1,17 @@
+/venv
+/.venv
+__pycache__/
+*.py[cod]
+*.pyc 
+# C extensions
+*.so
+db.sqlite3
+/assets/
+/static/
+/media/
+*.log
+*.pid
+*.pem
+/media
+*.codex
+docker-compose.yaml
